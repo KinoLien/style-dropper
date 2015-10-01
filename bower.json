@@ -1,0 +1,27 @@
+{
+  "name": "style-dropper",
+  "version": "0.1.0",
+  "homepage": "https://github.com/KinoLien/style-dropper",
+  "authors": [
+    "KinoLien <miecowbai@gmail.com>"
+  ],
+  "description": "Style Dropper can copy/paste CSS styles for specified HTML elements.",
+  "main": "src/StyleDropper.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "HTML",
+    "css",
+    "styles copy",
+    "styles paste"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
