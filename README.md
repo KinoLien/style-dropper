@@ -51,7 +51,7 @@ If you don't assign query and mapKey, the `data` would like this:
 		}
 	}
 	
-In this case, it would catch styles witch are first assigned.
+In this case, it would catch styles witch assigned on first time.
 
 ##### Example
 
@@ -88,7 +88,7 @@ Results
 |object|PlainObject/String|Indicates the `suck` returns object or the same format JSON string.|
 |element|DOM Element|The native html DOM element, means to set styles from this element and includes all child nodes.|
 
-After exeution, the styles of HTML would change according to the input `object`, and rules are the same as gets styles section.
+After exeution, the styles of HTML would be changed according to the input `object`, and paste rules are the same as gets style.
 
 
 ## License
